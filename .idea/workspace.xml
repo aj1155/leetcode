@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bba05574-5192-44ab-87e7-97ad7e1e4082" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FrequentElements.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FrequentElements.java" afterPath="$PROJECT_DIR$/src/FrequentElements.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="FrequentElements.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FrequentElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="150">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -221,6 +221,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -332,12 +333,20 @@
       <option name="presentableId" value="Default" />
       <updated>1532138761274</updated>
       <workItem from="1532138765537" duration="1842000" />
-      <workItem from="1537257198496" duration="1670000" />
+      <workItem from="1537257198496" duration="1713000" />
     </task>
+    <task id="LOCAL-00001" summary="solve FrequentElements">
+      <created>1537259060361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537259060361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3512000" />
+    <option name="totallyTimeSpent" value="3555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-213" width="2560" height="1440" extended-state="0" />
@@ -378,6 +387,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solve FrequentElements" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve FrequentElements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -451,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FrequentElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
